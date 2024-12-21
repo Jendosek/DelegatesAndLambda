@@ -1,0 +1,12 @@
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/bin/Debug/net8.0/DelegatesAndLambda.deps.json
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/bin/Debug/net8.0/DelegatesAndLambda.dll
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/bin/Debug/net8.0/DelegatesAndLambda.pdb
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.AssemblyInfoInputs.cache
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.AssemblyInfo.cs
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.csproj.CoreCompileInputs.cache
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.dll
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/refint/DelegatesAndLambda.dll
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.pdb
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/ref/DelegatesAndLambda.dll
+/Users/evgenijbalaker/RiderProjects/DelegatesAndLambda/DelegatesAndLambda/obj/Debug/net8.0/DelegatesAndLambda.sourcelink.json
